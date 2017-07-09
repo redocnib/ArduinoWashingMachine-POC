@@ -8,14 +8,13 @@ The Story : i have a fullyautomatic washing machine @ my home (Samsung WA65H4200
  * https://github.com/redocnib
  * Fully Automatic Washing Machine Logic Board 
  * Note: 
- * Initial Version
+ * Added 16x2 display
  * The pressure switch is broken so i am using timers for drain and fill.
  * 
  * todo:
- * 1. barometer and pressure sensing for drain and fill
- * 2. 16x2 display
- * 3. control switches
- * 4. Mobile/Network based alerts and notifications
+ * 1. Barometer and pressure sensing for drain and fill
+ * 2. Control switches
+ * 3. Mobile/Network based alerts and notifications
  * 
  */
  
