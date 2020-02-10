@@ -63,7 +63,3 @@ doSoak(time in minutes);
 -----------------------------------------------
 The process will wait for a specific period of time so that the clothes can soak.
 
-
-Tools
----------------------
-i use UnoArduSimV1.7.2 (https://www.sites.google.com/site/unoardusim/home) for simulating arduino before field test ;) 
