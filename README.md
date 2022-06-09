@@ -1,10 +1,10 @@
 # Fully Automatic Washing Machine - Arduino POC
 The Story : i have a fullyautomatic washing machine @ my home (Samsung WA65H4200HA) whose control board recently got burned, so i decided to make it back using arduino.
 
+Disecting the existing system:
+https://bincoder.com/fully-automatic-arduino-washer/
+
 /*
- * Author : Kiran AK
- * http://bincoder.com/
- * https://github.com/redocnib
  * Fully Automatic Washing Machine Logic Board 
  * Note: 
  * Added 16x2 display
